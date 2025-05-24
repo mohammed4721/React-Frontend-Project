@@ -6,7 +6,7 @@ import Mark from './components/Mark';
 import About from './components/About';
 import Eyes from './components/Eyes';
 import Features from './components/Features';
-import Cards from './components/cards';
+import Cards from './components/Cards';
 import Footer from './components/Footer';
 import LocomotiveScroll from 'locomotive-scroll';
 
